@@ -30,5 +30,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
-
-![271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://github.com/user-attachments/assets/75bfc3de-4ee0-47eb-bce2-9946fbd43c9d)
