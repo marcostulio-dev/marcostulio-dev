@@ -1,16 +1,34 @@
-## Hi there 👋
+## E aí gente, me chamo Marcos Túlio 👋
 
-<!--
-**marcostulio-dev/marcostulio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Descrição -->
+- 🔭 Atualmente estou estagiando em infra, mas eu tenho um sonho...
+- 🌱 Estou estudando Python, mais focado na área de desenvolvimento e análise de dados.
 
-Here are some ideas to get you started:
+<details>
+  <summary>👨‍💻 Um pouco sobre mim</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -💬 Eu tenho 21 anos, e vivo no Brasil. Amo programar com Python e estou cada vez mais me aproximando e me apaixonando pela área de análise de dados. Possuo um inglês intermediário, com boa interpretação de texto e uma conversação razoável.
+  
+  -⚡ Gosto muito de jogar com meus amigos e amo demais passar um tempo com a natureza contemplando a mesma. Um dos meus grandes sonhos e me tornar um excelente programador e trabalhar para impresas internacionais.
+</details>
+
+<!-- Dados/Gráficos -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcostulio-dev&show_icons=true&theme=midnight-purple" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostulio-dev&layout=compact&theme=midnight-purple" />
+</a>
+
+<!-- Linguagens -->
+## Linguagens que utilizo:
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+![271384939-4e9f41af-6b57-49a7-b15a-74322e96b4d7](https://github.com/user-attachments/assets/75bfc3de-4ee0-47eb-bce2-9946fbd43c9d)
