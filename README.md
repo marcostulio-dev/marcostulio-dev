@@ -20,8 +20,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostulio-dev&layout=compact&theme=midnight-purple" />
 </a>
 
-<!-- Linguagens -->
-## Linguagens que utilizo:
+<!-- Ferramentas -->
+## Ferramentas que utilizo:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -30,3 +30,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
+
+##
+  ![h9phrgL](https://github.com/user-attachments/assets/b3cc5bdb-b1a6-4ee1-9a25-cd93b43978b6)
+
